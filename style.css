@@ -1,0 +1,14 @@
+body{
+    background: teal;
+    color: white;
+}
+
+#webcam{
+    width: 350px;
+    height: 300px;
+    border:2px dotted black;
+}
+
+.heading{
+    width: 80%;
+}
